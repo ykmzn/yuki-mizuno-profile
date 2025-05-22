@@ -1,0 +1,30 @@
+---
+title: "Yuki MIZUNO"
+subtitle: "Associate Research Scientist"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+---
+
+## About
+
+**水野 佑紀 (Yuki MIZUNO)**  
+Associate Research Scientist  
+Columbia University
+
+## Research Interests
+
+My research focuses on **Exposome** - the comprehensive assessment of environmental exposures and their impact on human health.
+
+### Keywords
+- Exposome
+- Exposomics
+- Metabolomics
+- Mass Spectrometry
+
+## Current Position
+
+**Associate Research Scientist**  
+Columbia University  
+New York, NY, USA

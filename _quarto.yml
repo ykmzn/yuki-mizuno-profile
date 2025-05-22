@@ -1,0 +1,13 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Yuki MIZUNO - Research"
+  navbar:
+    background: primary
+    
+format:
+  html:
+    theme: cosmo
+    toc: false
